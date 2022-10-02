@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis R Guerrero@GitHub4lrg
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently enrolled at Ironhack.
+- 👀 I’m interested in new technologies, data manipulation and coding.
+- 🌱 I graduated as a Data Analytics at Ironhack.
 - 💞️ I’m looking to collaborate on Analytics for the EV or Power Generation Industry.
 - 📫 You can reach me in Linkedln, or just email me.
 
